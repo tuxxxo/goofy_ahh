@@ -1,0 +1,16 @@
+body {
+  background-color: #bed6ab
+}
+
+h1{
+font-size: 80px; color: #f46472; font-family: inherit; text-align: center;
+}
+
+
+p {
+  font-size: 40px; font-family: cursive; color:#fff9d8; text-align: center;
+}
+
+img {
+  border: 10px solid #f2ecc3; margin-left: 30% 
+}
